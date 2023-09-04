@@ -7,8 +7,15 @@ function App() {
 	const [count, setCount] = useState(0);
 
 
-	return <>git down on it</>;
 
+
+  return (
+    <>
+      <p>I love pulling gits, git up offa that thang, git pub, gitmania gitamoveon</p>
+      <p>here are some git related puns ^</p>
+      <>git down on it</>
+    </>
+  )
 }
 
 export default App;

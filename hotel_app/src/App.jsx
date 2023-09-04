@@ -8,7 +8,8 @@ function App() {
 
   return (
     <>
-      <p>I love pulling gits </p>
+      <p>I love pulling gits, git up offa that thang, git pub, gitmania gitamoveon</p>
+      <p>here are some git related puns ^</p>
     </>
   )
 }
